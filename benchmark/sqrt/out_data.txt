@@ -1,0 +1,35 @@
+The sum of weight is 1.00
+--------------------The selected parameters-----------------
+system.cpu.dcache.demand_miss_rate::.switch_cpus.data
+system.cpu.icache.demand_miss_rate::.switch_cpus.inst
+system.switch_cpus.cpi_total
+system.branch_miss_rate
+system.switch_cpus.commit.branchMispredicts
+system.switch_cpus.commit.branches
+
+-------------------The data from input file-----------------
+The data is from /home/lhx/benchmark/sqrt/stats_resuming_1.txt~~~~~~~~~~
+['system.switch_cpus.commit.branchMispredicts', '44266']
+['system.switch_cpus.commit.branches', '1687925']
+['system.switch_cpus.cpi_total', '1.446839']
+['system.cpu.icache.demand_miss_rate::.switch_cpus.inst', '0.000504']
+['system.cpu.dcache.demand_miss_rate::.switch_cpus.data', '0.001288']
+
+
+The data is from /home/lhx/benchmark/sqrt/stats_resuming_2.txt~~~~~~~~~~
+['system.switch_cpus.commit.branchMispredicts', '52698']
+['system.switch_cpus.commit.branches', '1685893']
+['system.switch_cpus.cpi_total', '1.449683']
+['system.cpu.icache.demand_miss_rate::.switch_cpus.inst', '0.000007']
+['system.cpu.dcache.demand_miss_rate::.switch_cpus.data', '0.000002']
+
+
+The data is from /home/lhx/benchmark/sqrt/stats_resuming_3.txt~~~~~~~~~~
+['system.switch_cpus.commit.branchMispredicts', '53344']
+['system.switch_cpus.commit.branches', '1685738']
+['system.switch_cpus.cpi_total', '1.446396']
+['system.cpu.icache.demand_miss_rate::.switch_cpus.inst', '0.000007']
+['system.cpu.dcache.demand_miss_rate::.switch_cpus.data', '0.000003']
+
+
+The data is from /home/lhx/benchmark/sqrt/stats_resuming_4.txt~~~~~~~~~~

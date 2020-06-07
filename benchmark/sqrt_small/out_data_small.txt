@@ -1,0 +1,45 @@
+The sum of weight is 1.0
+--------------------The selected parameters-----------------
+system.cpu.dcache.demand_miss_rate::.switch_cpus.data
+system.cpu.icache.demand_miss_rate::.switch_cpus.inst
+system.switch_cpus.cpi_total
+system.branch_miss_rate
+system.switch_cpus.commit.branchMispredicts
+system.switch_cpus.commit.branches
+
+-------------------The data from input file-----------------
+The data is from /home/lhx/benchmark/python/stats_resuming_1~~~~~~~~~~
+['system.switch_cpus.commit.branchMispredicts', '44266']
+['system.switch_cpus.commit.branches', '1687926']
+['system.switch_cpus.cpi_total', '1.446892']
+['system.cpu.icache.demand_miss_rate::.switch_cpus.inst', '0.000504']
+['system.cpu.dcache.demand_miss_rate::.switch_cpus.data', '0.001287']
+
+
+The data is from /home/lhx/benchmark/python/stats_resuming_2~~~~~~~~~~
+['system.switch_cpus.commit.branchMispredicts', '50760']
+['system.switch_cpus.commit.branches', '1685894']
+['system.switch_cpus.cpi_total', '1.448634']
+['system.cpu.icache.demand_miss_rate::.switch_cpus.inst', '0.000007']
+['system.cpu.dcache.demand_miss_rate::.switch_cpus.data', '0.000003']
+
+
+The data is from /home/lhx/benchmark/python/stats_resuming_3~~~~~~~~~~
+['system.switch_cpus.commit.branchMispredicts', '53344']
+['system.switch_cpus.commit.branches', '1685738']
+['system.switch_cpus.cpi_total', '1.446396']
+['system.cpu.icache.demand_miss_rate::.switch_cpus.inst', '0.000007']
+['system.cpu.dcache.demand_miss_rate::.switch_cpus.data', '0.000003']
+
+
+{'cpt.simpoint': '00', 'inst': '0', 'weight': '0.041667', 'interval': '10000000', 'warmup': '0', 'system.switch_cpus.commit.branchMispredicts': '44266', 'system.switch_cpus.commit.branches': '1687926', 'system.switch_cpus.cpi_total': '1.446892', 'system.cpu.icache.demand_miss_rate::.switch_cpus.inst': '0.000504', 'system.cpu.dcache.demand_miss_rate::.switch_cpus.data': '0.001287', 'system.branch_miss_rate': 0.02622508332711268}
+{'cpt.simpoint': '01', 'inst': '79990000', 'weight': '0.375000', 'interval': '10000000', 'warmup': '10000', 'system.switch_cpus.commit.branchMispredicts': '50760', 'system.switch_cpus.commit.branches': '1685894', 'system.switch_cpus.cpi_total': '1.448634', 'system.cpu.icache.demand_miss_rate::.switch_cpus.inst': '0.000007', 'system.cpu.dcache.demand_miss_rate::.switch_cpus.data': '0.000003', 'system.branch_miss_rate': 0.03010865451801833}
+{'cpt.simpoint': '02', 'inst': '159990000', 'weight': '0.583333', 'interval': '10000000', 'warmup': '10000', 'system.switch_cpus.commit.branchMispredicts': '53344', 'system.switch_cpus.commit.branches': '1685738', 'system.switch_cpus.cpi_total': '1.446396', 'system.cpu.icache.demand_miss_rate::.switch_cpus.inst': '0.000007', 'system.cpu.dcache.demand_miss_rate::.switch_cpus.data': '0.000003', 'system.branch_miss_rate': 0.031644300597127195}
+
+-------------------The data to save------------------
+system.cpu.dcache.demand_miss_rate::.switch_cpus.data       0.000057
+system.cpu.icache.demand_miss_rate::.switch_cpus.inst       0.000028
+system.switch_cpus.cpi_total                                1.447256
+system.branch_miss_rate                                     0.030843
+system.switch_cpus.commit.branchMispredicts                 51996.746974
+system.switch_cpus.commit.branches                          1685887.667396

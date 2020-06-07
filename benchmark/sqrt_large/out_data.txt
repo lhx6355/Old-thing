@@ -1,0 +1,11 @@
+The sum of weight is 1.0
+--------------------The selected parameters-----------------
+system.cpu.dcache.demand_miss_rate::.switch_cpus.data
+system.cpu.icache.demand_miss_rate::.switch_cpus.inst
+system.switch_cpus.cpi_total
+system.branch_miss_rate
+system.switch_cpus.commit.branchMispredicts
+system.switch_cpus.commit.branches
+
+-------------------The data from input file-----------------
+The data is from /home/lhx/benchmark/sqrt_large/stats_resuming_1~~~~~~~~~~
